@@ -1,3 +1,6 @@
+azureml 세팅하는 영상 : 
+https://youtu.be/YQDnOT0ayzM
+
 # Azure Machine Learning 을 이용한 ML pipeline
 
 요구사항1. Serverless API(Google Functions, Azure Functions, AWS Lambda)로 머신러닝 모델 CPU 서빙
